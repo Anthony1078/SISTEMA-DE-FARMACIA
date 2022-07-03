@@ -1,0 +1,5 @@
+#Ignora la BD
+/BD
+
+#Ignora la conexión
+/app
